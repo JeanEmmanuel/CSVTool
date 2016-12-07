@@ -8,9 +8,13 @@ Jean-Emmanuel Losi, jean.e.losi@gmail.com
 This tool performs some simple operations on a CSV.
 
 help                             print all available command line operations.
+
 version                          print the current application's version.
+
 exit                             stops the application.
+
 new                              input a new csv file.
+
 save                             saves the file in the executable's directory.
 statistics [header]              output some statistics about the selected column.
 [operator] [lhs_header] [rhs_header]   selected operator on [lhs_header] and [rhs_header].
